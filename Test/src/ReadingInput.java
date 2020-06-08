@@ -12,6 +12,11 @@ public class ReadingInput {
 		System.out.print("Name: ");
 		String name = scanner1.nextLine().trim();
 		System.out.println("You are: " + name);
+
+		Scanner scanner2 = new Scanner(System.in);
+		System.out.println("Boolean: ");
+		boolean bool = scanner2.nextBoolean();
+		System.out.println("You entered: " + bool);
 	}
 
 }
