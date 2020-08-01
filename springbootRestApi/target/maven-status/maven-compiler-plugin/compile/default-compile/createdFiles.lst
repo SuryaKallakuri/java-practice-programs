@@ -1,0 +1,5 @@
+com/letsstartcoding/springbootRestApi/controller/StudentController.class
+com/letsstartcoding/springbootRestApi/model/Student.class
+com/letsstartcoding/springbootRestApi/repository/StudentRepository.class
+com/letsstartcoding/springbootRestApi/dao/StudentDAO.class
+com/letsstartcoding/springbootRestApi/StudentApplication.class
